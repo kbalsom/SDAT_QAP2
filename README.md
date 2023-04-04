@@ -12,17 +12,17 @@ It was tested by running a Docker container locally.
 
 To run this API:
 
-*Create the database using MySQL Workbench.
+* Create the database using MySQL Workbench.
 
-*Populate the database using Postman.
+* Populate the database using Postman.
 
-*Run the following docker commands in the terminal: 
+* Run the following docker commands in the terminal: 
 
-  -S4_2023_qap2 % docker build -t qap2 .
+   - S4_2023_qap2 % docker build -t qap2 .
   
-  -docker compose up
+    - docker compose up
   
-*The program can be tested using Postman.
+* The program can be tested using Postman.
 
 
 
