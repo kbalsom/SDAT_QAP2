@@ -18,7 +18,7 @@ To run this API:
 
 * Run the following docker commands in the terminal: 
 
-   - S4_2023_qap2 % docker build -t qap2 .
+   - docker build -t qap2 .
   
     - docker compose up
   
